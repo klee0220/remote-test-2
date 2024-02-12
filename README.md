@@ -1,3 +1,3 @@
 1  # remote-test-1
 2 new line
-3 third line additional text
+3 third line
